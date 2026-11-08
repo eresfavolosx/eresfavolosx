@@ -38,13 +38,14 @@
 
 | Project | Live Platform | Architecture & Stack | Focus & Impact |
 | :--- | :--- | :--- | :--- |
-| **[JobHelper](https://github.com/eresfavolosx/JobHelper)** | [jobhelper.novu.works](https://jobhelper.novu.works) | `Next.js 16` `React 19` `Gemini 2.0` `Firebase` `Tailwind` | AI-powered career automation suite. 1-click Chrome MV3 extension for job parsing, drag-and-drop Kanban tracking, and real-time resume tailoring powered by Google Gemini 2.0 Flash. |
-| **[NovuWorks](https://github.com/eresfavolosx/novuworks)** | [novu.works](https://novu.works) | `Three.js r186` `Vite 8` `WebGL` `GLSL Shaders` `Tailwind` | Interactive executive portfolio & design atelier. Dynamic DPR-adapted particle engine, 60 FPS mobile WebKit rendering, responsive audio visualizers, and dark/light mode architecture. |
+| **[JobHelper](https://github.com/eresfavolosx/JobHelper)** | [jobhelper.novu.works](https://jobhelper.novu.works) | `Next.js 16` `React 19` `Gemini / Claude / OpenAI` `Firebase` | AI-powered career automation suite. Multi-provider LLM engine, Anthropic Constitutional AI safety guardrails, 1-click Chrome MV3 clipper, drag-and-drop Kanban, Gmail sync, and 5-daily-applications canvas celebration engine. |
+| **[NovuWorks](https://github.com/eresfavolosx/novuworks)** | [novu.works](https://novu.works) | `Three.js r186` `Vite 8` `WebGL` `GLSL Shaders` `Tailwind` | Interactive executive portfolio & design atelier. Dynamic DPR-adapted particle engine, 60 FPS mobile WebKit rendering, responsive audio visualizers, and WCAG AA+ dark/light mode architecture. |
+| **[FavoBot (Supra Bot)](https://github.com/eresfavolosx/FavoBot)** | [novu.works](https://novu.works) | `Python 3.10+` `Go 1.22+` `Next.js` `Gemini / OpenAI` `MCP` | Autonomous Python & Go LLM agent companion exploring 100-point rubric self-critique, deterministic safety guardrails, Telegram/Discord bridges, and a live Next.js Mission Control telemetry center. |
+| **[NFC (Tocaito)](https://github.com/eresfavolosx/NFC)** | [nfc.novu.works](https://nfc.novu.works) | `Vite 7` `Capacitor 8` `Web NFC` `Firebase` `iOS Native` | Cross-platform physical touchpoint operations system. Programmatic NDEF tag writing, dynamic cloud redirects without rewriting chips, live tap telemetry simulator, and native iOS deployment. |
+| **[Picta](https://github.com/eresfavolosx/Picta)** | [picta.novu.works](https://picta.novu.works) | `WebRTC` `Canvas2D` `SVG ColorMatrix` `Web Speech API` | Real-time assistive camera for color vision deficiency. High-throughput Daltonization matrix processing, CVD simulation (Protanopia/Deuteranopia/Tritanopia), interactive reticle, and voice color feedback. |
 | **[BizPay](https://github.com/eresfavolosx/BizPay)** | [bizpay.novu.works](https://bizpay.novu.works) | `HTML5` `Bootstrap` `JavaScript` `ATH Móvil API` | Mobile-first B2B commercial payments & payroll portal tailored for Caribbean SMBs, featuring native ATH Móvil Business checkout integration and dual-mode employee payroll ledgers. |
-| **[NFC (Tocaito)](https://github.com/eresfavolosx/NFC)** | [nfc.novu.works](https://nfc.novu.works) | `Vite 7` `Capacitor 8` `Web NFC` `Firebase` `iOS Native` | Cross-platform physical touchpoint operations system. Programmatic NDEF tag writing, dynamic cloud redirects without rewriting chips, tap telemetry, and native iOS deployment. |
-| **[Picta](https://github.com/eresfavolosx/Picta)** | [picta.novu.works](https://picta.novu.works) | `WebRTC` `Canvas2D` `Web Speech API` `ESM` | Real-time assistive camera for color vision deficiency. High-throughput Daltonization matrix processing, CVD simulation (Protanopia/Deuteranopia/Tritanopia), and voice color feedback. |
 | **[Hackea Por Una Causa](https://github.com/eresfavolosx/hackeaporunacausa)** | [hackea.novu.works](https://hackea.novu.works) | `React` `Redux` `Express` `MongoDB` `Node.js` | Civic tech recruitment and calendarization portal pairing at-risk youth with industry mentors across Puerto Rico. Built for Puerto Rico's premier civic hackathon. |
-| **[TokenFund](https://github.com/eresfavolosx/TokenFund)** | [tokenfund-3e7e2.web.app](https://tokenfund-3e7e2.web.app) | `Firebase Hosting` `RTDB` `Bitcoin API` `HTML5` | Disaster recovery micro-crowdfunding platform deployed following Hurricane María, enabling global borderless Bitcoin and multi-currency relief aid directly to local communities. |
+| **[TokenFund](https://github.com/eresfavolosx/TokenFund)** | [tokenfund-3e7e2.web.app](https://tokenfund-3e7e2.web.app) | `Solidity` `Firebase Hosting` `RTDB` `Bitcoin API` `HTML5` | Transparent community patronage & disaster recovery micro-crowdfunding platform deployed following Hurricane María, enabling borderless relief aid directly to local communities. |
 
 ---
 
@@ -74,7 +75,7 @@
       <h4>☁️ Backend, Cloud & AI</h4>
       <ul>
         <li><b>Cloud & BaaS:</b> Firebase (Auth, Firestore, Hosting, Cloud Functions), Google Cloud Platform</li>
-        <li><b>AI & LLMs:</b> Google Gemini 2.0 API, Structured Outputs, Prompt Engineering, LangChain</li>
+        <li><b>AI & LLMs:</b> Google Gemini 2.5/3.8, Anthropic Claude, OpenAI, Constitutional AI Guardrails, Multi-Agent Systems (MCP), Structured Outputs</li>
         <li><b>Databases:</b> Cloud Firestore, PostgreSQL, MongoDB, Redis</li>
         <li><b>DevOps:</b> Git, GitHub Actions CI/CD, Docker, Vercel, Firebase CLI</li>
       </ul>
